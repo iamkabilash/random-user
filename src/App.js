@@ -18,7 +18,10 @@ const App = () =>{
   }, []);
 
   return(
-    data && <Card data={data} />
+    <>
+      <h2 className='w-screen justify-center text-center text-3xl font-bold my-[30px]'>Random User Generator</h2>
+      {data && <Card data={data} />}
+    </>
   );
 }
 
