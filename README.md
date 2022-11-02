@@ -12,7 +12,10 @@
 [![Project](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=appveyor)](#)
 [![Project](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=appveyor)](#)
 [![Project](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=appveyor)](#)
-API used: https://randomuser.me/
+
+# API used
+[RandomUser.me](https://randomuser.me/)
+
 
 # Screenshots
 ![](./src/assets/thumbnail.png)
